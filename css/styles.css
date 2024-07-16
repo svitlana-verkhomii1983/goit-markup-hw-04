@@ -143,12 +143,12 @@ img {
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .section-container {
     text-align: center;
-    margin-left: auto;
-    margin-right: auto;  
 }
 
 .section-main-title {
